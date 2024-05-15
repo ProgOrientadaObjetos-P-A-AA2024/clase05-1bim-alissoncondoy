@@ -17,6 +17,8 @@ public class Ejecutor2 {
                 notas);
         
         libreta2.establecerPromedio();
+        //Si no escribimos la linea 19 no estariamos llamando al metodo y esta 
+        //se presentaria sin un promedio ya que tomaria los valores por defecto vacio.
         libreta2.establecerPromedioCualitativo();
         
         System.out.printf("\n%s\n", libreta2);        
