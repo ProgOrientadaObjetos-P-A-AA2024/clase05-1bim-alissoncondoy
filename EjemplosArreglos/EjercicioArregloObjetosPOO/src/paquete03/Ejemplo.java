@@ -12,8 +12,8 @@ public class Ejemplo {
         // crear un arreglo de objetos de tipo Calificacion
         Calificacion [] calificaciones = new Calificacion[2];
         
-        Calificacion c = new Calificacion(10, "Computación");
-        Calificacion c2 = new Calificacion(9, "Electrónica");
+        Calificacion c = new Calificacion(10, "Computacion");
+        Calificacion c2 = new Calificacion(9, "Electronica");
         
         calificaciones[0] = c;
         calificaciones[1] = c2;
