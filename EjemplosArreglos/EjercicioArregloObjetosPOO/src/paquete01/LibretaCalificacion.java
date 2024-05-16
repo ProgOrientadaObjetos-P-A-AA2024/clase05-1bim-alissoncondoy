@@ -32,6 +32,10 @@ public class LibretaCalificacion {
         
         for (int i = 0; i < obtenerCalificaciones().length; i++) {
             suma = suma + obtenerCalificaciones()[i].obtenerNota();
+        
+        //    for (int i = 0; j < obtenerCalificaciones().length; i++) {
+        //   Calificacion c =Obtener.Calificacion ()[i];
+        //  suma = suma + c.obtenerNota():    
             
         }
         
